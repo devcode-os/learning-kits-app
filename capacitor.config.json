@@ -1,0 +1,6 @@
+{
+  "appId": "com.fdaytalk.learningkits",
+  "appName": "Learning Kits",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
